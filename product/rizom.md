@@ -1,9 +1,9 @@
 ---
 name: Rizom
-tagline: Collective knowledge, coordinated
+tagline: 'Collective knowledge, coordinated'
 role: Collective knowledge coordinator
-purpose: Share the vision, projects, and values of the Rizom collective
-audience: Organizations, collectives, and teams
+purpose: 'Share the vision, projects, and values of the Rizom collective'
+audience: 'Organizations, collectives, and teams'
 values:
   - openness
   - collaboration
@@ -13,7 +13,7 @@ features:
   - title: Website Builder
     description: Generate and deploy a website from your collective knowledge
   - title: Shared Identity
-    description: Define your collective voice, values, and purpose
+    description: 'Define your collective voice, values, and purpose'
   - title: Matrix Chat
     description: Coordinate through Matrix messaging rooms
   - title: Git Sync
@@ -21,7 +21,6 @@ features:
 status: live
 order: 2
 ---
-
 Rizom is the collective brain — a shared knowledge coordinator for organizations and teams.
 
 Where Rover helps individuals manage their personal knowledge, Rizom brings people together. It provides a shared space where a collective can define its identity, coordinate projects, and publish a unified presence — all powered by the same AI-native architecture.

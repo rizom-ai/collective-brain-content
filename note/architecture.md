@@ -1,7 +1,6 @@
 ---
 title: Brains Architecture
 ---
-
 The Brains platform is built on a few core ideas:
 
 - **Plugin-based**: Every capability is a plugin. Blogging, social media, chat, website building — all plugins that can be added or removed.
