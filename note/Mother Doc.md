@@ -159,5 +159,4 @@ A world where talent flows to opportunity without friction, professionals own wh
 **2026 Q2 Goals:** 
 1. Fundraising (target amount)
 2. Revenue generation 
-3. Community growth 
-
+3. Community growth
