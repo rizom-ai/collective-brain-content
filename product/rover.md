@@ -1,26 +1,76 @@
 ---
 name: Rover
-tagline: Your AI-powered personal knowledge hub
-role: Personal knowledge manager and professional content curator
-purpose: 'Help organize thoughts, capture knowledge, and showcase professional work'
-audience: 'Creators, writers, and independent professionals'
-values:
-  - clarity
-  - organization
-  - professionalism
-  - continuous learning
-features:
-  - title: AI Blogging
-    description: Generate and publish blog posts from your knowledge base
-  - title: Social Publishing
-    description: Share content across LinkedIn and other platforms
-  - title: Matrix Chat
-    description: Interact with your brain through Matrix messaging
-  - title: Slide Decks
-    description: Create presentations from your knowledge
 status: live
 order: 1
 ---
+
+## Tagline
+
+Your AI-powered personal knowledge hub
+
+## Role
+
+Personal knowledge manager and professional content curator
+
+## Purpose
+
+Help organize thoughts, capture knowledge, and showcase professional work
+
+## Audience
+
+Creators, writers, and independent professionals
+
+## Values
+
+- clarity
+- organization
+- professionalism
+- continuous learning
+
+## Features
+
+### Feature 1
+
+#### Title
+
+AI Blogging
+
+#### Description
+
+Generate and publish blog posts from your knowledge base
+
+### Feature 2
+
+#### Title
+
+Social Publishing
+
+#### Description
+
+Share content across LinkedIn and other platforms
+
+### Feature 3
+
+#### Title
+
+Matrix Chat
+
+#### Description
+
+Interact with your brain through Matrix messaging
+
+### Feature 4
+
+#### Title
+
+Slide Decks
+
+#### Description
+
+Create presentations from your knowledge
+
+## Story
+
 Rover is the professional brain — a personal knowledge operating system for creators, writers, and independent professionals.
 
 It turns scattered notes, ideas, and drafts into polished content. Write a thought, and Rover can shape it into a blog post, a social media update, or a slide deck. Everything stays in markdown, portable and yours.
