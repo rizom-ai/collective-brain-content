@@ -2,8 +2,8 @@
 name: Recall
 tagline: Shared memory for teams that move fast
 role: Team knowledge manager and collaboration hub
-purpose: Keep team knowledge accessible, searchable, and always up to date
-audience: Small teams, startups, and project groups
+purpose: 'Keep team knowledge accessible, searchable, and always up to date'
+audience: 'Small teams, startups, and project groups'
 values:
   - speed
   - transparency
@@ -21,7 +21,6 @@ features:
 status: beta
 order: 2
 ---
-
 Recall is the team brain — a shared memory for groups who need to stay aligned without drowning in tools.
 
 Teams lose knowledge every day. Decisions made in chat vanish. Meeting notes rot in shared drives. Onboarding means asking the same questions again and again. Recall fixes this by giving the team a single, searchable brain that everyone contributes to and draws from.

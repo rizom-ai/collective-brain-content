@@ -1,9 +1,9 @@
 ---
 name: Ranger
-tagline: Collective intelligence, orchestrated
+tagline: 'Collective intelligence, orchestrated'
 role: Collective knowledge coordinator and public presence
-purpose: Align a collective around shared identity, projects, and communication
-audience: Organizations, collectives, and communities
+purpose: 'Align a collective around shared identity, projects, and communication'
+audience: 'Organizations, collectives, and communities'
 values:
   - openness
   - coordination
@@ -13,7 +13,7 @@ features:
   - title: Website Builder
     description: Generate and deploy a website from your collective knowledge
   - title: Shared Identity
-    description: Define your collective voice, values, and purpose
+    description: 'Define your collective voice, values, and purpose'
   - title: Social Publishing
     description: Coordinate messaging across platforms from one source
   - title: Multi-Brain Sync
@@ -21,7 +21,6 @@ features:
 status: alpha
 order: 3
 ---
-
 Ranger is the collective brain — an orchestration layer for organizations that want to think and communicate as one.
 
 A collective is more than a team. It has a public identity, a shared mission, and many voices that need to speak coherently. Ranger gives the collective a brain of its own — one that coordinates knowledge across members, generates a unified public presence, and keeps everyone moving in the same direction.
