@@ -3,7 +3,6 @@ name: Ranger
 status: alpha
 order: 3
 ---
-
 ## Tagline
 
 Collective intelligence, orchestrated

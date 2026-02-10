@@ -3,7 +3,6 @@ name: Rover
 status: live
 order: 1
 ---
-
 ## Tagline
 
 Your AI-powered personal knowledge hub
