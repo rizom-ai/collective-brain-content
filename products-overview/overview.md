@@ -2,7 +2,6 @@
 headline: What We Build
 tagline: Brain models for every use case
 ---
-
 # Products Overview
 
 ## Vision
