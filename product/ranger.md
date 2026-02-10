@@ -3,6 +3,7 @@ name: Ranger
 status: alpha
 order: 3
 ---
+
 ## Tagline
 
 Collective intelligence, orchestrated
@@ -26,7 +27,7 @@ Organizations, collectives, and communities
 - community
 - autonomy
 
-## Features
+## Capabilities
 
 ### Feature 1
 

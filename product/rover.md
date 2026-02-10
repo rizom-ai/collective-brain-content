@@ -3,6 +3,7 @@ name: Rover
 status: live
 order: 1
 ---
+
 ## Tagline
 
 Your AI-powered personal knowledge hub
@@ -26,7 +27,7 @@ Creators, writers, and independent professionals
 - professionalism
 - continuous learning
 
-## Features
+## Capabilities
 
 ### Feature 1
 

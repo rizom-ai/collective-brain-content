@@ -2,13 +2,14 @@
 headline: What We Build
 tagline: Brain models for every use case
 ---
+
 # Products Overview
 
 ## Vision
 
 We believe knowledge work deserves better tools. Not more tools — better ones. The Brains platform provides AI-native models that adapt to how you think and work — whether you're an individual creator, a fast-moving team, or a coordinated collective.
 
-## Pillars
+## Core Principles
 
 ### Pillar 1
 
@@ -40,7 +41,11 @@ Markdown-First
 
 All content stored as portable, human-readable markdown files
 
-## Technologies
+## Brain Models
+
+Each brain model is a configuration of the Brains platform tailored to a specific use case — from personal knowledge management to collective coordination.
+
+## Built With
 
 - TypeScript
 - Preact
@@ -48,7 +53,7 @@ All content stored as portable, human-readable markdown files
 - Matrix Protocol
 - MCP
 
-## Benefits
+## Why Brains
 
 ### Benefit 1
 
@@ -80,7 +85,7 @@ AI That Learns You
 
 Your brain adapts to your voice and style the more you use it
 
-## CTA
+## Ready to Build
 
 ### Text
 

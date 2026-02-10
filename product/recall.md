@@ -3,6 +3,7 @@ name: Recall
 status: beta
 order: 2
 ---
+
 ## Tagline
 
 Shared memory for teams that move fast
@@ -26,7 +27,7 @@ Small teams, startups, and project groups
 - shared context
 - simplicity
 
-## Features
+## Capabilities
 
 ### Feature 1
 
