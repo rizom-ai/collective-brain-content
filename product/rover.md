@@ -2,8 +2,8 @@
 name: Rover
 tagline: Your AI-powered personal knowledge hub
 role: Personal knowledge manager and professional content curator
-purpose: 'Help organize thoughts, capture knowledge, and showcase professional work'
-audience: 'Creators, writers, and independent professionals'
+purpose: Help organize thoughts, capture knowledge, and showcase professional work
+audience: Creators, writers, and independent professionals
 values:
   - clarity
   - organization
@@ -21,6 +21,7 @@ features:
 status: live
 order: 1
 ---
+
 Rover is the professional brain — a personal knowledge operating system for creators, writers, and independent professionals.
 
 It turns scattered notes, ideas, and drafts into polished content. Write a thought, and Rover can shape it into a blog post, a social media update, or a slide deck. Everything stays in markdown, portable and yours.

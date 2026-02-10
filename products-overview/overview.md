@@ -2,11 +2,12 @@
 headline: What We Build
 tagline: Brain models for every use case
 ---
+
 # Products Overview
 
 ## Vision
 
-We believe knowledge work deserves better tools. Not more tools — better ones. The Brains platform provides AI-native models that adapt to how you think and work, whether you're an individual creator or part of a collective.
+We believe knowledge work deserves better tools. Not more tools — better ones. The Brains platform provides AI-native models that adapt to how you think and work — whether you're an individual creator, a fast-moving team, or a coordinated collective.
 
 ## Pillars
 
