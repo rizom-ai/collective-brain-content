@@ -3,7 +3,6 @@ name: Recall
 status: beta
 order: 2
 ---
-
 ## Tagline
 
 Shared memory for teams that move fast
