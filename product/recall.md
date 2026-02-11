@@ -1,6 +1,6 @@
 ---
 name: Recall
-status: beta
+status: coming soon
 order: 2
 ---
 ## Tagline

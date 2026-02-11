@@ -1,6 +1,6 @@
 ---
 name: Ranger
-status: alpha
+status: coming soon
 order: 3
 ---
 ## Tagline

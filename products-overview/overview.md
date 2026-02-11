@@ -154,4 +154,4 @@ Learn More
 
 ### Link
 
-/about
+https://github.com/rizom-ai/brains
