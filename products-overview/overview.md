@@ -86,7 +86,7 @@ Three brain models, each built for a different scale of thinking — from solo c
 
 #### Title
 
-Markdown Storage
+Plain Text Storage
 
 #### Description
 
