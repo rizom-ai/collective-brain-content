@@ -1,0 +1,39 @@
+2026-02-11T17:29:32.393Z - product/rover.md: [
+  {
+    "expected": "'available' | 'early access' | 'coming soon' | 'planned'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "availability"
+    ],
+    "message": "Required"
+  }
+]
+→ product/rover.md.invalid
+
+2026-02-11T17:29:32.400Z - product/ranger.md: [
+  {
+    "expected": "'available' | 'early access' | 'coming soon' | 'planned'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "availability"
+    ],
+    "message": "Required"
+  }
+]
+→ product/ranger.md.invalid
+
+2026-02-11T17:29:32.424Z - product/recall.md: [
+  {
+    "expected": "'available' | 'early access' | 'coming soon' | 'planned'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "availability"
+    ],
+    "message": "Required"
+  }
+]
+→ product/recall.md.invalid
+
