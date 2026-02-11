@@ -1,6 +1,6 @@
 ---
 headline: What We Build
-tagline: Your knowledge, your rules
+tagline: 'Your knowledge, your rules'
 ---
 # Products Overview
 
