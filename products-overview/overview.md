@@ -1,6 +1,8 @@
 ---
 headline: What We Build
-tagline: AI-native knowledge tools that adapt to how you think — not the other way around
+tagline: >-
+  AI-native knowledge tools that adapt to how you think — not the other way
+  around
 ---
 # Products Overview
 
