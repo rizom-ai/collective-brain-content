@@ -1,5 +1,5 @@
 ---
-headline: What We Build
+headline: Brain Models
 tagline: >-
   AI-native knowledge tools that adapt to how you think — not the other way
   around
@@ -10,7 +10,7 @@ tagline: >-
 
 We believe knowledge work deserves better tools. Not more tools — better ones.
 
-Most platforms lock your thinking into someone else's structure. Your notes live in proprietary formats, your content is scattered across disconnected apps, and your workflow adapts to the tool instead of the other way around. The Brains platform changes this: AI-native models that adapt to how you think and work — whether you're an individual creator, a fast-moving team, or a coordinated collective.
+Most platforms lock your thinking into someone else's structure. Your notes live in proprietary formats, your content is scattered across disconnected apps, and your workflow adapts to the tool instead of the other way around. We built something different: AI-native models that work the way you do — whether you're an individual creator, a fast-moving team, or a coordinated collective.
 
 ## Core Principles
 
@@ -38,11 +38,11 @@ Every capability is a plugin — add what you need, skip what you don't. Bloggin
 
 #### Title
 
-Markdown-First
+Fully Yours
 
 #### Description
 
-All content stored as portable, human-readable markdown files. No database lock-in, no proprietary formats. Your data is plain text on disk — readable, versionable, and yours to move anywhere.
+Your data belongs to you — not to us, not to a platform, not to a proprietary format. Everything you put in, you can take out. No lock-in, no export fees, no fine print. It's yours, period.
 
 ## How It Works
 
@@ -54,7 +54,7 @@ Capture
 
 #### Description
 
-Write notes, save links, log meeting decisions — everything goes into your brain as plain markdown. No special syntax, no learning curve. If you can write a sentence, you can feed your brain.
+Write notes, save links, log meeting decisions — everything goes into your brain as plain text. No special syntax, no learning curve. If you can write a sentence, you can feed your brain.
 
 ### Step 2
 
@@ -96,11 +96,11 @@ All content lives as plain text files on disk. No proprietary database, no binar
 
 #### Title
 
-Plugin Architecture
+MCP Protocol
 
 #### Description
 
-Every feature is a composable building block. Add blogging, chat, social publishing, or slide decks independently. Build custom plugins to extend your brain with any capability you need.
+Your brain speaks the Model Context Protocol — the open standard for AI tool integration. Connect any MCP-compatible service, build custom tools, or let your brain work with other AI systems natively.
 
 ### Technology 3
 
@@ -132,7 +132,7 @@ Zero Lock-In
 
 #### Description
 
-Every piece of content is a markdown file you can read, move, or delete. No proprietary formats, no export wizards, no hostage negotiations. Leave anytime and take everything with you.
+Every piece of content is a plain text file you can read, move, or delete. No proprietary formats, no export wizards, no hostage negotiations. Leave anytime and take everything with you.
 
 ### Benefit 3
 
