@@ -2,7 +2,6 @@
 title: Future of Work is Play
 platform: linkedin
 status: draft
-retryCount: 0
 ---
 We tell our children to find work that matters, to be creative, to follow their passion.
 

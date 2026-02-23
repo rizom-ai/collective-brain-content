@@ -2,7 +2,6 @@
 title: Rover AI Knowledge Hub
 platform: linkedin
 status: draft
-retryCount: 0
 ---
 Your best ideas are scattered across notes, voice memos, and half-finished drafts.
 
