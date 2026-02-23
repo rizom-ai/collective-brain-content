@@ -31,3 +31,9 @@
   }
 ]
 2026-02-11T17:44:47.976Z - [RECOVERED] product/recall.md
+2026-02-23T17:24:01.868Z - profile/profile.md: Entity type registration failed for profile: No adapter registered for entity type
+→ profile/profile.md.invalid
+
+2026-02-23T17:24:01.880Z - identity/identity.md: Entity type registration failed for identity: No adapter registered for entity type
+→ identity/identity.md.invalid
+
