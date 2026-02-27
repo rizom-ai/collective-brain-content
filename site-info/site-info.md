@@ -1,11 +1,24 @@
----
-title: Rizom
-description: The Rizom collective's knowledge hub
-logo: true
-themeMode: dark
-cta:
-  heading: Unlock your full potential
-  buttonText: Join Rizom
-  buttonLink: 'https://www.linkedin.com/company/rizom-collective'
----
+# Site Information
 
+## Title
+Rizom
+
+## Description
+The Rizom collective's knowledge hub
+
+## Logo
+
+true
+
+## Theme Mode
+dark
+
+## CTA
+### Heading
+Unlock your full potential
+
+### Button Text
+Join Rizom
+
+### Button Link
+https://www.linkedin.com/company/rizom-collective
