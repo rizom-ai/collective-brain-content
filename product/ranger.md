@@ -5,29 +5,29 @@ order: 3
 ---
 ## Tagline
 
-Collective intelligence, orchestrated
+Match the right brain to the right work, across the entire network
 
 ## Promise
 
-One brain for the whole organization. Individual voices, coordinated into a shared presence.
+Every brief finds its best match. Every team assembles itself from what the network actually knows.
 
 ## Role
 
-Knowledge coordinator for organizations and communities
+Network-wide discovery, matching, and team assembly layer
 
 ## Purpose
 
-Align a group around shared identity, projects, and public communication. Without flattening individual voices.
+Read across the knowledge graphs of connected brains — Rovers and Relays — to match incoming work to the right people and agents. Ranger is the outward-facing coordination layer that turns a network of independent brains into a self-assembling talent system.
 
 ## Audience
 
-Organizations and communities that need to speak coherently while thinking independently
+Organizations, collectives, and networks that need to find the right expertise fast and assemble the right team for every project
 
 ## Values
 
 - openness
-- coordination
-- community
+- precision
+- complementarity
 - autonomy
 
 ## Capabilities
@@ -36,48 +36,52 @@ Organizations and communities that need to speak coherently while thinking indep
 
 #### Title
 
-Website Builder
+Capability Profiles
 
 #### Description
 
-Generate and deploy a website directly from your organization's knowledge. Content updates flow from the brain to the site automatically. No CMS to manage, no deploy steps to remember.
+Auto-generated from each brain's actual content, not self-reported tags. If a Rover has been writing about Shopify architecture for six months, its profile reflects that. Knowledge domains ranked by depth, updated continuously.
 
 ### Feature 2
 
 #### Title
 
-Shared Identity
+Match Scoring
 
 #### Description
 
-Define your group's voice, values, and purpose in one place. Every piece of content, from blog posts to social updates, stays true to who you are, no matter who writes it.
+When a brief or project comes in, every brain in the network gets a fit score with explainable breakdown. Domain fit, availability, experience depth — all transparent, all auditable.
 
 ### Feature 3
 
 #### Title
 
-Coordinated Publishing
+Team Assembly
 
 #### Description
 
-Manage messaging across platforms from a single source of truth. Draft once in the shared brain, then adapt and distribute to every channel with consistent voice and timing.
+For multi-brain projects, Ranger suggests compositions based on complementary knowledge. It optimizes for full coverage of the brief with minimal overlap and no gaps. The right team, assembled from what the network actually knows.
 
 ### Feature 4
 
 #### Title
 
-Multi-Brain Sync
+Gap Detection
 
 #### Description
 
-Connect individual member brains into a shared network. Knowledge flows between personal and group brains, with each level maintaining its own identity, permissions, and autonomy.
+Identifies what the network lacks. "No brain in the network has deep experience in X." Gap detection turns blind spots into actionable insight, whether that means hiring, learning, or partnering.
 
 ## Story
 
-An organization is more than a team with a shared folder. A community is more than a group chat. Both have a public identity, a shared mission, and many voices that need to speak coherently without being flattened into one. Most collaboration tools either force consensus or fragment into chaos. Ranger is built for the space in between.
+Relay looks inward — one team, one shared brain, analyzing its own patterns. Ranger looks outward. It operates across the entire network of independent brains, reading their knowledge graphs to answer a fundamentally different question: who should do this work?
 
-Ranger gives the group a brain of its own. One that coordinates knowledge across members, generates a unified public presence, and keeps everyone aligned without centralizing control. The website, social channels, and public communications all draw from the same source of truth, updated by anyone with permission.
+Think of it this way: if Relay is an organism, Ranger is an ecosystem. A mycelial network connecting independent brains that each maintain their own identity and autonomy. Ranger doesn't centralize knowledge. It reads across it.
 
-Each member keeps their own brain. Ranger connects them. Knowledge flows between individual brains and the shared brain, with each level maintaining its own identity. A researcher's insights can surface in the organization's blog. The community's mission statement can inform a member's slide deck. The individual doesn't lose their voice. The group amplifies it.
+When a brief arrives, Ranger scores every brain in the network for fit. Not based on job titles or self-reported skills, but on what each brain has actually been thinking about, writing about, and building. The result is a capability profile that's earned, not claimed.
 
-Built for groups who think together.
+For complex projects, Ranger goes further: it assembles teams by finding complementary knowledge across brains. Full coverage of the brief, minimal overlap, no gaps. And when the network doesn't have what's needed, Ranger says so — gap detection that turns blind spots into decisions.
+
+Ranger is not "Relay for more people." It is a different functional layer entirely. Relay analyzes a team's internal knowledge. Ranger matches and assembles across the network.
+
+Built for networks that think together.

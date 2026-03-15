@@ -76,7 +76,7 @@ Turn captured knowledge into published content. A note becomes a blog post. Meet
 
 ## Products
 
-Three brains, each built for a different scale of thinking. One for you, one for your team, and one for the whole organization.
+Three brains, each adding a distinct functional layer. Rover builds knowledge. Relay analyzes it within a team. Ranger matches and assembles it across the network. Each layer produces its own concrete outputs — these are not the same tool at different sizes.
 
 ## Built With
 
@@ -120,6 +120,16 @@ AI Model Agnostic
 
 Not tied to any single AI provider. Swap models, combine them, or bring your own. Your brain works with the best AI available today and adapts as better options emerge tomorrow.
 
+### Technology 5
+
+#### Title
+
+Brain-to-Brain Communication (A2A Protocol)
+
+#### Description
+
+All brains — Rovers, Relays, and Rangers — can discover and talk to each other directly. Each brain announces what it knows, queries other brains, and exchanges context autonomously. MCP handles brain-to-tool communication. A2A handles brain-to-brain communication.
+
 ## Why Brains
 
 ### Benefit 1
@@ -150,7 +160,7 @@ Grows With You
 
 #### Description
 
-Start with a personal brain. Add team members and it becomes a shared memory. Connect multiple brains and you have a collective. The platform scales from solo to organization without switching tools.
+Start with a personal brain that captures and creates. Add Relay and your team gains analysis and prediction. Connect brains through Ranger and the network matches talent to work automatically. Each layer adds new capabilities — not just more of the same.
 
 ## Ready to Build
 
