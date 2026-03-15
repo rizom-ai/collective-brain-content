@@ -94,11 +94,11 @@ All content lives as plain text files on disk. No proprietary database, no binar
 
 #### Title
 
-MCP Protocol
+Open Protocols
 
 #### Description
 
-Your brain speaks the Model Context Protocol, the open standard for AI tool integration. Connect any MCP-compatible service, build custom tools, or let your brain work with other AI systems natively.
+Brains speak two open standards: MCP for brain-to-tool communication and A2A for brain-to-brain communication. Connect any MCP-compatible service, build custom tools, and let brains discover, query, and exchange context with each other directly.
 
 ### Technology 3
 
@@ -119,16 +119,6 @@ AI Model Agnostic
 #### Description
 
 Not tied to any single AI provider. Swap models, combine them, or bring your own. Your brain works with the best AI available today and adapts as better options emerge tomorrow.
-
-### Technology 5
-
-#### Title
-
-Brain-to-Brain Communication (A2A Protocol)
-
-#### Description
-
-All brains — Rovers, Relays, and Rangers — can discover and talk to each other directly. Each brain announces what it knows, queries other brains, and exchanges context autonomously. MCP handles brain-to-tool communication. A2A handles brain-to-brain communication.
 
 ## Why Brains
 
