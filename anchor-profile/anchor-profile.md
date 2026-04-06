@@ -1,4 +1,5 @@
 ---
+kind: collective
 name: Rizom
 description: >-
   Open-source collective building privacy-first tools for knowledge management
