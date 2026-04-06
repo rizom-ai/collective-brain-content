@@ -19,13 +19,13 @@ This brain is built on the Brains framework with:
 ```bash
 cd apps/collective-brain
 cp .env.example .env
-# Add your ANTHROPIC_API_KEY and other variables
+# Add your AI_API_KEY and other variables
 bun run dev
 ```
 
 ### Environment Variables
 
-- `ANTHROPIC_API_KEY`: Required for AI features
+- `AI_API_KEY`: Required for AI features
 - `MCP_AUTH_TOKEN`: Optional, for securing MCP interface
 - `DOMAIN`: Optional, your public domain for production
 
